@@ -1,4 +1,3 @@
-
 | Name                   | GitHub ID           | College Name                   |
 | ---------------------- | ------------------- | ------------------------------ |
 | Asra Tabassum          | Tabassumasra05      | IIIT Allahabad                 |
@@ -30,6 +29,7 @@
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Khushi Shorey | khushishorey | IIIT Allahabad |
+| Ishan Raj Singh | ishanrajsingh | Amity Noida |
 | Spandana Surepally | Spandana-S16 | IIIT Allahabad |
 | Sayed Al Amaan zaidi         | amaan1114           | Rishihood University              |
 | Satwik Santosh | DeadlySatwik | IIIT Allahabad |
@@ -43,6 +43,9 @@
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
 | Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
 | Sindhu B                | Sindhuu-B            | JNNCE                          |
+| Harshit Sethi           | HarshitRSethi      | IIIT Allahabad                  |
+| Abhigyan Tiwari            | Abh-igyan  | NIT Silchar                  |
+| Roshan Gupta| roshangupta4804-hue |  |  IIIT Allahabad | 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
