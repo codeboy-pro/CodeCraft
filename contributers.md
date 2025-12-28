@@ -58,6 +58,7 @@
 | Ashutosh Kesarwani     | Lucifer-0612           | HIT Haldia                    |
 
 | Apoorv Mittal              | Apoorv012              | JIIT Noida                |
+| Chauhan Devan            | Devan019              | DDIT nadiad                |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
